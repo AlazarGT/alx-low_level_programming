@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * main - a simple program that outputs 0-9 separated by commas
  *
