@@ -2,4 +2,4 @@
 
 ## In this directory we will look at hash tables
 
-## Mikiyas Bekele
+## Alazar Girma
